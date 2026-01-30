@@ -1,0 +1,2 @@
+# Esila-Troll--
+Termux-Note
